@@ -13,3 +13,4 @@
 * Unit tests with Cunit
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
+![cppcheck-action](https://github.com/sanjatchand/MiniProject_Template/workflows/cppcheck-action/badge.svg)
