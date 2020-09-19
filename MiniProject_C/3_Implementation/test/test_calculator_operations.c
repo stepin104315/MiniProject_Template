@@ -20,7 +20,6 @@ int main() {
   CU_pSuite suite = CU_add_suite(PROJECT_NAME, 0, 0);
 /* Note: Do not edit END */
   
-  
   /* Add your test functions in this format for testing*/
   CU_add_test(suite, "add", test_add);
   CU_add_test(suite, "subtract", test_subtract);
